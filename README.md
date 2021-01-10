@@ -1,2 +1,2 @@
 # wym96.github.io
-My personal web
+My personal webpage
